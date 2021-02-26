@@ -1,4 +1,4 @@
-package bu.senko.gaykevich.quantumservice;
+package by.senko.gaykevich.quantumservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package bu.senko.gaykevich.quantumservice;
+package by.senko.gaykevich.quantumservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
